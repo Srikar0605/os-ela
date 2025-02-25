@@ -149,7 +149,6 @@ Server: Hi, Client!
 This project is open-source and available under the **MIT License**.
 
 ## Authors
-[saipradhamkanth(23071A3218),rithika(23071A3219),shriya(23071A3202),bhanu(23071A3204)] - Created this project for learning and demonstration purposes.
 [shriya(23071A3202),bhanu(23071A3205)saipradhamkanth(23071A3218),rithika(23071A3219)] - Created this project for learning and demonstration purposes.
 
 ---
